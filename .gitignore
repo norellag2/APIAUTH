@@ -1,0 +1,2 @@
+node_modules 
+# ignora la carpeta node modules para subir a git
